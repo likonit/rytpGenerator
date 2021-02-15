@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#video {
+    width: 98vw;
+    height: 98vh;
+}
+#status {
+    position: fixed;
+    right: 1vw;
+    bottom: 2vh;
+    color: #888;
+    font-size: 12px;
+}
